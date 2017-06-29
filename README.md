@@ -7,7 +7,7 @@ http://myinternationalspot.com/
 http://twitter.com/anjosmi
 
 - Instagram
-https://www.instagram.com/anjos.mi/
+http://www.instagram.com/anjos.mi/
 
 - Facebook
-https://www.facebook.com/anjos.mi
+http://www.facebook.com/anjos.mi
