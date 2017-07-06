@@ -11,3 +11,7 @@ http://www.instagram.com/anjos.mi/
 
 - Facebook
 http://www.facebook.com/anjos.mi
+
+- LinkedIn
+http://linkedin.com/in/micheleanjos
+
